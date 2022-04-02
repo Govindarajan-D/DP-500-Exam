@@ -20,6 +20,8 @@
 
 [Aggregations and debug](https://www.antmanbi.com/post/getting-started-with-aggregations-in-power-bi-part-1)
 
+[Large Tables](https://sqlserverbi.blog/2021/06/01/doing-power-bi-the-right-way-10-designing-and-managing-large-datasets/)
+
 ### Other features
 [RLS](https://www.antmanbi.com/post/create-static-row-level-security-in-power-bi)
 
