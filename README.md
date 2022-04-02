@@ -1,2 +1,4 @@
 # DP-500-Exam
-DP 500 exam preparation links
+
+### Explore and visualize data
+[Automatic page refresh](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-automatic-page-refresh)
