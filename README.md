@@ -2,6 +2,7 @@
 
 ### Performance
 [Desktop Performance Analyzer](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer)
+
 [Aggregations and debug](https://www.antmanbi.com/post/getting-started-with-aggregations-in-power-bi-part-1)
 
 ### Other features
