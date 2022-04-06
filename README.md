@@ -1,4 +1,10 @@
 # DP-500-Exam
+
+### Power Query
+[M query - Cell values](https://blog.crossjoin.co.uk/2015/09/15/referencing-individual-cell-values-from-tables-in-power-query/)
+
+[Streaming datasets](https://blog.crossjoin.co.uk/category/power-query/page/15/)
+
 ### PBI Admin
 [Config Premium Capacity](https://docs.microsoft.com/en-us/power-bi/enterprise/service-admin-premium-manage)
 
