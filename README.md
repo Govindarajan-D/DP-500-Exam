@@ -18,6 +18,12 @@
 ### Performance
 [Desktop Performance Analyzer](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer)
 
+[Query Diagnostics](https://blog.crossjoin.co.uk/2020/05/21/monitoring-power-query-memory-usage-with-query-diagnostics-in-power-bi/)
+
+[Monitoring Query](https://www.jamesserra.com/archive/2020/05/monitoring-power-bi/)
+
+[Optimizing Power Query](https://blog.crossjoin.co.uk/2020/05/31/optimising-the-performance-of-power-query-merges-in-power-bi-part-1/)
+
 [Aggregations and debug](https://www.antmanbi.com/post/getting-started-with-aggregations-in-power-bi-part-1)
 
 [Large Tables](https://sqlserverbi.blog/2021/06/01/doing-power-bi-the-right-way-10-designing-and-managing-large-datasets/)
