@@ -47,3 +47,6 @@ Points:
 2. Automatic Page refresh - Setting present in admin side overrides the refresh setting per page and query running time is the actual page refresh frequency
 3. For a full refresh, twice the amount of memory is required
 4. While doing OLS, take relationships into consideration. Hiding a single table with relation to other tables results in error
+5. Calculated columns in DAX is a single thread operation and is also non-parallel process. More number of calculated columns is going to make the refresh longer.
+6. Vertipaq stores data in columnar format and Storage Engine (SE) processes them for the datacache. SE scans only the columns necessary for the DAX code to work. 
+7. SE can use parallel operations to form datacache, but FE only uses single thread for its operations. 
