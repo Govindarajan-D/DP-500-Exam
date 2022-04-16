@@ -5,6 +5,8 @@
 
 [Streaming datasets](https://blog.crossjoin.co.uk/category/power-query/page/15/)
 
+[PowerQuery Diagnostics](https://docs.microsoft.com/en-us/power-query/recordingquerydiagnostics)
+
 ### PBI Admin
 [Config Premium Capacity](https://docs.microsoft.com/en-us/power-bi/enterprise/service-admin-premium-manage)
 
