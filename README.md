@@ -52,3 +52,7 @@ Points:
 5. Calculated columns in DAX is a single thread operation and is also non-parallel process. More number of calculated columns is going to make the refresh longer.
 6. Vertipaq stores data in columnar format and Storage Engine (SE) processes them for the datacache. SE scans only the columns necessary for the DAX code to work. 
 7. SE can use parallel operations to form datacache, but FE only uses single thread for its operations. 
+
+DAX:
+1. SUMX(KEEPFILTERS(),MEASURE) -> Forces to use the filter in KEEPFILTER while evaluating the MEASURE, and the Implicit CALCULATE won't overwrite it during context transition.
+2. Nested iterators - Cardinality of the the outer iteration defines the peformance. 
