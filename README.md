@@ -43,6 +43,7 @@
 
 ### Explore and visualize data
 [Automatic page refresh](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-automatic-page-refresh)
+[Custom Visual Governance](https://powerbi.microsoft.com/en-us/blog/how-to-govern-power-bi-visuals-inside-your-organization/)
 
 Points:
 1. Maximum concurrent refreshes - 1.5 times the v-core capacity rounded up to nearest integer
