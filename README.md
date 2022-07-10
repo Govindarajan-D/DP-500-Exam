@@ -57,3 +57,5 @@ Points:
 DAX:
 1. SUMX(KEEPFILTERS(),MEASURE) -> Forces to use the filter in KEEPFILTER while evaluating the MEASURE, and the Implicit CALCULATE won't overwrite it during context transition.
 2. Nested iterators - Cardinality of the the outer iteration defines the peformance. 
+3. USERELATIONSHIP cannot be used when row level security is defined for the table in which the measure is included.
+
